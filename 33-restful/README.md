@@ -5,7 +5,7 @@ REST = REpresentational State Transfer (http://www.ics.uci.edu/~fielding/pubs/di
 
 REST is a style for network-based interactive applications that
 underlies the Web. The example here doesn't go over the network, but
-preserves the main contraints of REST, which are:
+preserves the main constraints of REST, which are:
 
 - Interactive: end-to-end between an active agent (e.g. a person) and a backend
 
